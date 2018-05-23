@@ -11,7 +11,6 @@ ebin
 log
 erl_crash.dump
 .rebar
-rebar.lock
 logs
 _build
 .idea
